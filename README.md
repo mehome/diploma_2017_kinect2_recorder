@@ -28,4 +28,4 @@ To record depth (and color) videos using Kinect 2
 ### Other
 [License](https://github.com/miloiloloo/diploma_2017_kinect2_recorder/blob/master/LICENSE)
 
-Thanks to Victor Kulikov for recommendations and support
+Thanks to [Victor Kulikov](https://github.com/kulikovv) for recommendations and support
